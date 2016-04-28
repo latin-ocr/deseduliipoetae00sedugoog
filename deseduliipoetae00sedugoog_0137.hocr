@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deseduliipoetae00sedugoog_0137.png"; bbox 0 0 3272 5200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 861 2533 1332 2546">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 861 2533 1332 2546">
+     <span class='ocr_line' id='line_1_1' title="bbox 861 2533 1332 2546; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 861 2535 905 2546; x_wconf 69' lang='lat' dir='ltr'>&#39;vv-</span> <span class='ocrx_word' id='word_1_2' title='bbox 1282 2533 1332 2545; x_wconf 62' lang='grc' dir='ltr'>ΛΛΛ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 484 2587 1256 2645">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 484 2587 1256 2645">
+     <span class='ocr_line' id='line_1_2' title="bbox 484 2587 1256 2645; baseline -0.003 -11"><span class='ocrx_word' id='word_1_3' title='bbox 484 2587 644 2635; x_wconf 80' lang='lat' dir='ltr'><strong>Vindobonae</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 658 2587 728 2645; x_wconf 80' lang='lat' dir='ltr'>typis</span> <span class='ocrx_word' id='word_1_5' title='bbox 742 2589 920 2643; x_wconf 75' lang='lat' dir='ltr'>expresserunt</span> <span class='ocrx_word' id='word_1_6' title='bbox 933 2588 1058 2632; x_wconf 74' lang='lat' dir='ltr'><strong>Amadeus</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1072 2587 1153 2632; x_wconf 74' lang='lat' dir='ltr'>Giutel</span> <span class='ocrx_word' id='word_1_8' title='bbox 1167 2589 1194 2632; x_wconf 78' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_9' title='bbox 1207 2599 1256 2632; x_wconf 81' lang='lat' dir='ltr'><strong>soc.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 854 2683 1332 2698">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 854 2683 1332 2698">
+     <span class='ocr_line' id='line_1_3' title="bbox 854 2683 1332 2698; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 854 2683 905 2696; x_wconf 67' lang='lat' dir='ltr'>m·</span> <span class='ocrx_word' id='word_1_11' title='bbox 1102 2684 1332 2698; x_wconf 55' lang='grc' dir='ltr'>ΜΛΙΧΙᾺΛᾹΜΙΧἊ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1640 5200">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1640 5200">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1640 5200; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1640 5200; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
